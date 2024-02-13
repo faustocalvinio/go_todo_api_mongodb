@@ -1,1 +1,5 @@
-go run ./cmd/main.go
+# Todo App with Go and MongoDB
+
+```bash
+go run .
+```
